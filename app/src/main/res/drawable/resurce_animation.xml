@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/Stepone" android:duration="200" />
+    <item android:drawable="@drawable/stepfive" android:duration="200" />
+    <item android:drawable="@drawable/stepseven" android:duration="200" />
+    <item android:drawable="@drawable/ten" android:duration="200" />
+    <item android:drawable="@drawable/fivetin" android:duration="200" />
+    <item android:drawable="@drawable/eitin" android:duration="200" />
+    <item android:drawable="@drawable/twenty" android:duration="200" />
+    <item android:drawable="@drawable/twentyfive" android:duration="200" />
+    <item android:drawable="@drawable/twentyseven" android:duration="200" />
+    <item android:drawable="@drawable/thirtynine" android:duration="200" />
+    <item android:drawable="@drawable/thirty" android:duration="200" />
+    <item android:drawable="@drawable/thirtyfor" android:duration="200" />
+    <item android:drawable="@drawable/thirtysix" android:duration="200" />
+    <item android:drawable="@drawable/thirtynine" android:duration="200" />
+    <item android:drawable="@drawable/fotyone" android:duration="200" />
+    <item android:drawable="@drawable/fotytree" android:duration="200" />
+</animation-list>
